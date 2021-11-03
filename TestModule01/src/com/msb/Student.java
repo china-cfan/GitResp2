@@ -5,4 +5,6 @@ package com.msb;
  * @Date: 2021/11/3 - 11 - 03 - 10:52
  */
 public class Student {
+    private int age;
+    private String name;
 }
